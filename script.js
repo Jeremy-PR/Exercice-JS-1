@@ -65,7 +65,7 @@
 
 
 
-// // exercice 7
+// // // exercice 7
 // const chiffres = [23, -22, 63, -54, 12, -12];
 
 // let positif = [];
