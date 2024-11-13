@@ -54,9 +54,64 @@
 // console.log("Le nombre de voyelles dans le mot est :", voyelles);
 
 
-// exercice 6
+// // exercice 6
 
-const phrase = "js c'est pas facile"
+// const phrase = "js c'est pas facile"
+
+
+
+
+
+
+
+
+// // exercice 7
+// const chiffres = [23, -22, 63, -54, 12, -12];
+
+// let positif = [];
+// let negatif = [];
+
+// for ( let i = 0; i < chiffres.length; i++){
+//     if (chiffres[i] >= 0 ){
+//       positif.push(chiffres[i]);  
+//     } 
+//     else {negatif.push(chiffres[i])};
+
+// }
+    
+
+
+// console.log(positif);
+// console.log(negatif);
+
+
+
+// // exercice 8
+
+// let list = [322, 3543534, 23, 2324, 4546565];
+
+// let bigger = [];
+
+// for ( let i = 0; i < list.length; i++){
+
+// }
+
+// console.log(bigger);
+
+
+
+
+// // exercice 9
+
+// let word = "marsupilami"
+
+// let inverse = word.split("").reverse("").join("");
+
+
+// console.log("Le mot inversé est : " + inverse)
+
+
+
 
 
 
